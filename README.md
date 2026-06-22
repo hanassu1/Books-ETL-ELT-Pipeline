@@ -152,6 +152,6 @@ SQLite Transformation Project
 
 ## Author
 
-Hana Alsalman, Maha Alzahrani, Lama Alanzi, Taif Alfaifi, Fajr Alhajry
+Hana Alsalman, Maha Alzahrani, Lama Alanzi, Taif Alfaifi and Fajr Alhajry
 Data Science and Analytics Students  
 Princess Nourah bint Abdulrahman University
